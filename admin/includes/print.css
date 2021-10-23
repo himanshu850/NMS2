@@ -1,0 +1,9 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+#print-btn {
+  color: crimson;
+  display: none;
+  visibility: none;
+}

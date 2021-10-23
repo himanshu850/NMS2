@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+RewriteRule ^([^.]+)\.html$ $1.php [L]
+=======
+AddType application/x-httpd-php .html .htm
+>>>>>>> 46b202e222692219e6cc39b54edadcbad45011eb
+
